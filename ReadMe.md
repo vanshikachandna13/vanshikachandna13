@@ -13,7 +13,7 @@ Hey there,<br>I am an Undergraduate Computer Science student with a passion for 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikachandna13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vanshikachandna13&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vanshikachandna13&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=vanshikach22601)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
